@@ -84,11 +84,15 @@ html {
     color: blue;
     background-color: #fff;
    }
-   
+
+   canvas {
+     border: 1px solid black;
+   }
+
    /* ---- section ---- */
    
    section.testimonials {
-    // ...
+   
    }
    
    section.testimonials .button {
